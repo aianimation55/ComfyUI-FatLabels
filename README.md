@@ -1,5 +1,8 @@
-# FatLabels
+# Comfy UI FatLabels
+
 This is my first foray into making any sort of custom node for Comfy UI. As well as my first time putting anything on Github.
+
+Install in the 'custom_nodes' folder in your Comfy UI install.
 
 It's a super simple custom node for Comfy UI, to generate text, with a font size option. 
 
